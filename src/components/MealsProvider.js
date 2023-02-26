@@ -19,3 +19,5 @@ const MealsProvider = () => {
         </div>
     )
 };
+
+export default MealsProvider;

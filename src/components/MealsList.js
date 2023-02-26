@@ -16,3 +16,5 @@ const MealsList = () => {
         </div>
     )
 }
+
+export default MealsList;
